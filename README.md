@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/54a1ec34-c863-4117-b416-15ae4f94d9a4.svg)](https://wakatime.com/@54a1ec34-c863-4117-b416-15ae4f94d9a4)
+
 <!--
 **mokhtarabadi/mokhtarabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
