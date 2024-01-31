@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mokhtarabadi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtarabadi)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/54a1ec34-c863-4117-b416-15ae4f94d9a4.svg)](https://wakatime.com/@54a1ec34-c863-4117-b416-15ae4f94d9a4)
 
 <!--
